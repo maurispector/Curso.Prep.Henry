@@ -1,0 +1,12 @@
+Las variables nos permiten guardar datos 
+para usarlos mas tarde.
+Los strings son cadenas de palabras
+o tambien llamadas hilos.
+Las funciones son contenedores, agrupa codigo
+que voy a usar mucho luego.
+Los argumentos son los parametros que le parametros
+a la funcion entre los parentesis.
+El return es la unica forma de poder sacar
+algo fuera de la funcion.
+Los valores booleanos nos sirven para 
+determinar si algo es verdadero o falso.

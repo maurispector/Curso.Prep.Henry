@@ -1,0 +1,2 @@
+los arrays o arreglos son listas ordenaddas
+con indices

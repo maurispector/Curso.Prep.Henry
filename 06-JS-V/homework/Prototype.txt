@@ -1,0 +1,8 @@
+un prototype es una plantilla para 
+utilizar con los objetos
+es como si yo decidiera poner un negocio
+de panchos
+panchos seria el nombre del objeto y sus propiedades serian 
+el pan, la salchicha y el aderezo.
+A partir de esta plantilla hago 
+los distintos pedidos de panchos.

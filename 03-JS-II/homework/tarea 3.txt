@@ -1,0 +1,5 @@
+los bucles for nos ayudan a escribir 
+repeticiones en  pocas lineas de codigo
+los operadores logicos como el and, or y el not
+nos sirven para comparar declaraciones
+son como os operadores de los booleanos
